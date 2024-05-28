@@ -28,3 +28,5 @@ The following error message should appear:
 sh: ~/pnpm-install-bug-bad-interpreter/node_modules/.bin/tsc: /bin/sh: bad interpreter: Text file busy
  ELIFECYCLE  Command failed with exit code 126.
 ```
+
+If it shows the regular `tsc` help message, this means that the bug does not occur.  
