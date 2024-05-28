@@ -1,0 +1,10 @@
+{
+  "name": "pnpm-install-bug-bad-interpreter",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "prepare": "tsc"
+  }
+}
