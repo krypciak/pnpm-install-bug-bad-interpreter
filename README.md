@@ -10,6 +10,7 @@ The `pnpm` version didn't seem to make a difference in my testing, but here it i
 > pnpm --version
 9.1.1
 ```
+The `8.8.0` version of `pnpm` also didn't work.  
 
 `npm install` and `bun install` work fine.  
 
