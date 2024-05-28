@@ -2,9 +2,9 @@
   "name": "pnpm-install-bug-bad-interpreter",
   "version": "1.0.0",
   "dependencies": {
-    "typescript": "^5.4.5"
+    "hello-world-npm": "^1.1.1"
   },
   "scripts": {
-    "prepare": "tsc"
+    "prepare": "hello-world-npm"
   }
 }
