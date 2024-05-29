@@ -1,4 +1,6 @@
-# `pnpm install` bug
+# (FIXED) `pnpm install` bug
+
+## This bug has been fixed at some point, it does not occur on `6.10.0-rc1-00021-ge0cce98fe279`
 
 A very weird bug I encountered after a system update.  
 Tested only on arch linux.  
